@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://github.com/DeloitteDigitalUK/xLab"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "xlab"
+publishDir = "docs"
