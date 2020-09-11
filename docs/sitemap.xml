@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://deloittedigitaluk.github.io/xLab/cadence/</loc>
+    <lastmod>2020-09-11T08:28:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://deloittedigitaluk.github.io/xLab/</loc>
     <lastmod>2020-09-11T08:23:56+01:00</lastmod>
     <priority>0</priority>
