@@ -6,17 +6,25 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2020 07:46:54 +0100</lastBuildDate>
     
 	<atom:link href="https://deloittedigitaluk.github.io/xLab/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>https://deloittedigitaluk.github.io/xLab/posts/my-first-post/</link>
-      <pubDate>Fri, 11 Sep 2020 07:46:54 +0100</pubDate>
+      <title>What This Is</title>
+      <link>https://deloittedigitaluk.github.io/xLab/what-this-is/</link>
+      <pubDate>Fri, 11 Sep 2020 08:16:41 +0100</pubDate>
       
-      <guid>https://deloittedigitaluk.github.io/xLab/posts/my-first-post/</guid>
+      <guid>https://deloittedigitaluk.github.io/xLab/what-this-is/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Is This</title>
+      <link>https://deloittedigitaluk.github.io/xLab/what-is-this/</link>
+      <pubDate>Fri, 11 Sep 2020 08:08:21 +0100</pubDate>
+      
+      <guid>https://deloittedigitaluk.github.io/xLab/what-is-this/</guid>
       <description></description>
     </item>
     
