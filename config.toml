@@ -1,4 +1,0 @@
-baseURL = "https://github.com/DeloitteDigitalUK/xLab"
-languageCode = "en-us"
-title = "xlab"
-publishDir = "docs"
