@@ -1,42 +1,49 @@
-# tldr - the scope + objective of this is to address:
-
-> On my first week, what do I need to know to be at the right place at the right time?
-
-### What this is
-- an informal (but structured + accurate) snapshot of our workflows
-- the team's meta-knowledge in one place
-### What this is not
-- a knowledge-base for everything we’ve done
-- information on anything beyond core team admin
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-### Jump to..
-- How we (enable) work
-- toolkit list
-- Meeting Cadence
-- Making changes
-- OKRs
-- Issues + changelog
 
-### First steps
-- Get access to the xLab Slack (#kp)
-- Get access to the xLab Tandem (#os)
-- Get access to Jira & Confluence
-- Get access to Miro (#yc)
-- Subscribe to the shared Calendar (#os)
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="hhttps://deloittedigitaluk.github.io/xLab/">
+    <img src="xlab-w.jpg" alt="Logo" width="420" height="420">
+  </a>
+
+  <h3 align="center"></h3>
+
+  <p align="center">
+    <br />
+    <a href="https://github.com/DeloitteDigitalUK/xLab/wiki"><strong>view handbook »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/DeloitteDigitalUK/xLab/wiki">handbook</a>
+    ·
+    <a href="https://github.com/DeloitteDigitalUK/xLab/releases">changelog</a>
+    ·
+    <a href="https://github.com/DeloitteDigitalUK/xLab/issues">make changes</a>
+  </p>
+</p>
 
 
-Next page 👉
-
----
 
 
-TL
-(in the spirit of documenting everything):
-
-We’re not great at distributed working (we’re better than many around us, but that’s not a representative sample). That’s not a knock against us - we’ve had no reason to be
-
-Documentation is a universal ‘best practice’ for distributed, asynchronous teams, according to those that have been ‘doing distributed’ for longer + on a bigger scale - GitLab, Basecamp, Automattic, etc;  this is an experiment to see if we agree
-
-Similar rationale for the other stuff I was ‘pushing’ 😬
-e.g. 👉 Tandem, 👉 JIRA sucks / better programme management, 👉 a changelog, 👉 a more 'forced' focus on 'open comms', a considered refocus of 👉 team meetings, etc
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/othneildrew
+[product-screenshot]: images/screenshot.png
